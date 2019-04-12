@@ -1,24 +1,13 @@
-# README
+### Micro Reddit Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a micro version of the Reddit website.
 
-Things you may want to cover:
+We have implemented the back-end side relative to the database schema:
 
-* Ruby version
+* Creation
+* Validations
+* Associations
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Contributors:
+* [Valentino Valenti](https://github.com/1ba1)
+* [Zeha Irawan](https://github.com/JangkarBumi)
